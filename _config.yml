@@ -6,7 +6,7 @@
 # `jekyll serve`. If you change this file, please restart the server process.
 # Site Settings
 title                    : "刘琳 | Lin Liu"
-description              : "在这里记录我的研究与成长，分享学术思考、项目与点滴感悟。"
+description              : "M.S. @ Peking University · Documenting research & growth。"
 repository               : "baishenghe/baishenghe.github.io"
 google_scholar_stats_use_cdn : true
 # google analytics
