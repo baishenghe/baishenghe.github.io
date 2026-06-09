@@ -35,10 +35,10 @@ This site is where I document my research and growth. If you are interested in m
 - President's Scholarship
 
 **Honorary Titles**
-- "May Fourth" Youth Model (五四青年标兵)
-- Outstanding Merit Student (三好学生标兵)
-- Nominee, Annual Student Figure Award (年度大学生人物提名奖)
-- University "Sports Star" (体育明星)
+- "May Fourth" Youth Model 
+- Outstanding Merit Student 
+- Nominee, Annual Student Figure Award 
+- University "Sports Star" 
 # 📝 Publications 
 # 🔬 Research & Projects
 
