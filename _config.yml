@@ -17,9 +17,9 @@ bing_site_verification   :  # get bing_site_verification from https://www.bing.c
 baidu_site_verification  :  # get baidu_site_verification from https://ziyuan.baidu.com/login/index?u=/site/index
 # Site Author
 author:
-  name             : "刘琳"
+  name             : "Lin Liu"
   avatar           : "images/WechatIMG1301.jpg"
-  bio              : "北京大学 · 记录研究与成长"
+  bio              : "M.S. Student at Peking University"
   location         : "Beijing, China"
   employer         : "Peking University"
   pubmed           : 
