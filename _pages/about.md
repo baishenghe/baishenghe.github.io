@@ -16,7 +16,7 @@ redirect_from:
 {% assign url = gsDataBaseUrl | append: "google-scholar-stats/gs_data_shieldsio.json" %}
 
 <span class='anchor' id='about-me'></span>
-
+# About Me
 I am **Lin Liu (刘琳)**, currently a Master's student at **Peking University** (enrolled in 2026), advised by Prof. Xinyu Liu. Prior to that, I received my Bachelor's degree in Engineering from the **School of Computer Science and School of Software, Nanjing University of Information Science and Technology (NUIST)** from 2022 to 2026, where I was advised by Prof. Wenjie Liu.
 
 My research focuses on the application of artificial intelligence in healthcare. Specifically, I am interested in **Medical Large Language Models**—exploring how LLMs can support clinical question answering, medical reasoning, and diagnostic assistance; **Embodied AI**—studying how intelligent agents perceive and make decisions in the physical world; and **Medical Image Analysis**—developing methods for the analysis, understanding, and computer-aided diagnosis of medical images. Through this work, I hope to bring AI closer to real-world medical needs.
