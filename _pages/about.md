@@ -26,8 +26,6 @@ This site is where I document my research and growth. If you are interested in m
 # 🔥 News
 - *2026.06*: &nbsp;🎉🎉 My academic homepage is officially online!
 
-# 📝 Publications 
-
 # 🎖 Honors and Awards
 **National-Level Awards**
 - *First Prize*, 14th "China Software Cup" National Software Design Competition (Grand Finals)
@@ -41,7 +39,7 @@ This site is where I document my research and growth. If you are interested in m
 - Outstanding Merit Student (三好学生标兵)
 - Nominee, Annual Student Figure Award (年度大学生人物提名奖)
 - University "Sports Star" (体育明星)
-
+# 📝 Publications 
 # 🔬 Research & Projects
 
 # 🏃 Activities & Leadership
